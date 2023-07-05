@@ -1,0 +1,7 @@
+chatbot is a computer program or artificial intelligence (AI) application designed to simulate human conversations and interact with users through text or voice interfaces. Chatbots are designed to understand natural language input, interpret user requests, and provide appropriate responses or perform specific tasks.
+
+Chatbots can be categorized into two main types: rule-based chatbots and AI-powered chatbots.
+
+Rule-based chatbots : Rule-based chatbots work with predefined rules and decision trees. They follow a predefined set of instructions and provide responses based on matching keywords or patterns entered by the user. These chatbots have limited capabilities and can only handle certain scenarios for which they are programmed.
+
+The goal of chatbots is to enhance user experiences, provide instant and personalized assistance, automate tasks, and streamline interactions between humans and machines
