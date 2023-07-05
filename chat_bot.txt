@@ -5,3 +5,23 @@ Chatbots can be categorized into two main types: rule-based chatbots and AI-powe
 Rule-based chatbots : Rule-based chatbots work with predefined rules and decision trees. They follow a predefined set of instructions and provide responses based on matching keywords or patterns entered by the user. These chatbots have limited capabilities and can only handle certain scenarios for which they are programmed.
 
 The goal of chatbots is to enhance user experiences, provide instant and personalized assistance, automate tasks, and streamline interactions between humans and machines
+
+
+
+
+
+Endpoint 1 Summary:
+
+The first endpoint in the API call enables users to retrieve information about a specific recomendation. By sending a GET request to this endpoint with the tokenization validation and recommendation id as a parameter, the API returns the relevant user details, such as name, email address, and profile picture. This endpoint provides a convenient way to access user information for various purposes, such as displaying user profiles within an application or retrieving user-specific data.
+
+Endpoint 2 Summary:
+
+The second endpoint in the API call allows users to create a new entry in a database. It accepts a POST request with the necessary parameters, including the required fields for the new entry. Upon successful creation, the API responds with a status code and a unique identifier for the newly created entry. This endpoint is useful for applications that require users to submit data or create records, such as user registrations, form submissions, or content uploads. It facilitates the efficient storage and organization of user-generated data within the system.
+
+
+
+
+
+
+
+
